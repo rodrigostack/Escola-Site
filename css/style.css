@@ -50,3 +50,19 @@ footer{
 	color: #FFFFFF;
 }
 
+.containermain{
+	margin-top: 10px;
+}
+
+.cardheadermain{
+	text-align: center;
+	color: #87CEFA;
+	background:#191970;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px #F0F8FF;
+}
+
+.carditem{
+	margin-top: 5px;
+}
