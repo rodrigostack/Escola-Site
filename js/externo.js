@@ -1,0 +1,1 @@
+alert('Sejam Bem vindos(a) a escola de treinamentos profissionais R.O Cursos');
